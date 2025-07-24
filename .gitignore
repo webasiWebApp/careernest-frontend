@@ -1,0 +1,18 @@
+node_modules
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+out/
+.next/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
